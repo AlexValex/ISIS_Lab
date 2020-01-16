@@ -1,0 +1,10 @@
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\bin\Debug\Лаб.раб.1.exe.config
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\bin\Debug\Лаб.раб.1.exe
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\bin\Debug\Лаб.раб.1.pdb
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\obj\Debug\Лаб.раб._1.Form1.resources
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\obj\Debug\Лаб.раб._1.Form2.resources
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\obj\Debug\Лаб.раб._1.Properties.Resources.resources
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\obj\Debug\Лаб.раб.1.csproj.GenerateResource.cache
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\obj\Debug\Лаб.раб.1.exe
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\obj\Debug\Лаб.раб.1.pdb
+F:\ЛРИСИС\ЛР1\Лаб.раб.1\Лаб.раб.1\obj\Debug\Лаб.раб.1.csprojResolveAssemblyReference.cache
